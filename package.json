@@ -1,0 +1,39 @@
+{
+	"name": 		"typed-utils",
+	"author": {
+		"name": "Julien Loutre",
+		"email": "julien@twenty-six-medias.com",
+		"url": "http://www.twenty-six-medias.com/"
+	},
+	"description": 	"Javascript Typed Array utilities",
+	"version":		"0.0.1",
+	"keywords": [
+	"nlp",
+	"stanford",
+	"ner",
+	"named",
+	"entity",
+	"recognition",
+	"java"
+	],
+	"homepage": "https://github.com/26medias/typed-utils",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/26medias/typed-utils.git"
+	},
+	"bugs": {
+		"url": "https://github.com/26medias/typed-utils/issues"
+	},
+	"main": "typed-utils.js",
+	"readmeFilename": "README.md",
+	"licenses": [
+	{
+		"type": "GPL2",
+		"url": "http://www.gnu.org/licenses/gpl-2.0.html"
+	}
+	],
+	"dependencies": {
+		"underscore":	"latest"
+	}
+}
+
